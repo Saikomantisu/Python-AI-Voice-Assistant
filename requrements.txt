@@ -1,0 +1,4 @@
+pip install gTTS
+pip install playsound
+pip install os
+pip install gtts
